@@ -19,6 +19,7 @@ SPDX-License-Identifier: Apache-2.0
 import Pie from './Pie'
 import Tree from './Tree'
 import Radar from './Radar'
+import ShowuRadar from './ShowuRadar'
 import Bar from './Bar'
 import SmoothLine from './SmoothLine'
 import StockLine from './StockLine'
@@ -34,5 +35,6 @@ export {
   SmoothLine,
   StockLine,
   Scatterplot,
-  Radar
+  Radar,
+  ShowuRadar,
 }
